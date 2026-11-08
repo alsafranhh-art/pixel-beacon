@@ -1,0 +1,5 @@
+dist/
+PixelBeacon-posters/
+node_modules/
+explainer/out/
+*.tmp.mp4
